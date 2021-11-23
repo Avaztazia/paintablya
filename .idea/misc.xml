@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab2FINAL/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab2FINAL/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab2FINAL/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab3/app/src/main/res/layout/menu.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab3/app/src/main/res/menu/main_activity_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab3/app/src/main/res/menu/menu.xml" value="0.4" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_circle.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_cube.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_line.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_linewithcircles.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_point.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/drawable/ic_square.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab4/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab5/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab5/app/src/main/res/layout/activity_table.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/Allo/AndroidStudioProjects/Lab5/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

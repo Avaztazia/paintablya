@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_menu"
+    >
+
+    <item
+        android:id="@+id/action_file"
+        android:title="File"
+        app:showAsAction="always" >
+        <menu>
+            <item android:id="@+id/file_new" android:title="Новый"></item>
+<!--            <item android:id="@+id/table" android:title="Таблица"></item>-->
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/action_objects"
+        android:title="Objects"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/object_point"
+                android:title="Точка"
+                android:icon="@drawable/ic_point">
+            </item>
+
+            <item android:id="@+id/object_line"
+                android:title="Линия"
+                android:icon="@drawable/ic_line">
+            </item>
+            <item android:id="@+id/object_rect"
+                android:title="Квадрат"
+                android:icon="@drawable/ic_square">
+            </item>
+            <item android:id="@+id/object_circle"
+                android:title="Круг"
+                android:icon="@drawable/ic_circle">
+            </item>
+            <item android:id="@+id/object_cube"
+                android:title="Куб"
+                android:icon="@drawable/ic_cube">
+            </item>
+            <item android:id="@+id/object_LineWithCircles"
+                android:title="Линия с кругами"
+                android:icon="@drawable/ic_linewithcircles">
+            </item>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_help"
+        android:title="Help"
+        app:showAsAction="always" >
+        <menu>
+            <item android:id="@+id/help_not" android:title="Помощь"></item>
+        </menu>
+    </item>
+</menu>
